@@ -1,6 +1,6 @@
 # Citation Growth Plotter
 
-![Example cumulative citation plot](2411.16537_citation.png)
+![Example cumulative citation plot](2411.16537_citations.png)
 
 
 This repository provides a small utility to visualise how the citation count of a given paper evolves over time, based on data pulled from the open Semantic Scholar Graph API.

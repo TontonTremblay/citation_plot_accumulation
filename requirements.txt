@@ -1,0 +1,6 @@
+scholarly>=1.7
+pandas>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+requests>=2.31
+beautifulsoup4>=4.12
